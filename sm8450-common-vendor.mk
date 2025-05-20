@@ -163,7 +163,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/sm8450-common/proprietary/vendor/etc/display/DPU830.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display/DPU830.xml \
     vendor/sony/sm8450-common/proprietary/vendor/etc/display/DPU8__.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display/DPU8__.xml \
     vendor/sony/sm8450-common/proprietary/vendor/etc/display/advanced_sf_offsets.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display/advanced_sf_offsets.xml \
-    vendor/sony/sm8450-common/proprietary/vendor/etc/displayconfig/display_id_130.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_130.xml \
+    vendor/sony/sm8450-common/proprietary/vendor/etc/displayconfig/display_id_129.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_129.xml \
     vendor/sony/sm8450-common/proprietary/vendor/etc/dpm_vndr/vendor.dpm.conf:$(TARGET_COPY_OUT_VENDOR)/etc/dpm_vndr/vendor.dpm.conf \
     vendor/sony/sm8450-common/proprietary/vendor/etc/eva/facedetection/model3.dat:$(TARGET_COPY_OUT_VENDOR)/etc/eva/facedetection/model3.dat \
     vendor/sony/sm8450-common/proprietary/vendor/etc/gnss_antenna_info.conf:$(TARGET_COPY_OUT_VENDOR)/etc/gnss_antenna_info.conf \
