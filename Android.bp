@@ -1545,7 +1545,7 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libbase",
                 "libbinder_ndk",
-                "android.hardware.gnss-V1-ndk_platform",
+                "android.hardware.gnss-V1-ndk",
                 "liblog",
                 "libcutils",
                 "libqti_vndfwk_detect_vendor",
@@ -20526,7 +20526,7 @@ cc_prebuilt_binary {
                 "android.hardware.gnss@1.1",
                 "android.hardware.gnss@2.0",
                 "android.hardware.gnss@2.1",
-                "android.hardware.gnss-V1-ndk_platform",
+                "android.hardware.gnss-V1-ndk",
                 "android.hardware.gnss-aidl-impl-qti",
                 "libc++",
                 "libc",
