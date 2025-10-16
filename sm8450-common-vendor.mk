@@ -1265,6 +1265,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.servicetracker@1.2-service.xml \
     vendor.qti.hardware.vpp@2.0-service.xml \
     vendor.semc.hardware.extlight-somc.xml \
+    vendor.semc.system.idd.manifest.xml \
+    vendor.somc.hardware.aidlmiscta-somc.xml \
     vendor.somc.hardware.videoeffect.xml \
     adpl \
     adsprpcd \
